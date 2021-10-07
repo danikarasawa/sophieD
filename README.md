@@ -1,2 +1,2 @@
 # sophieD
-Project of my Mindstorms based on Python Language 
+Project of my Lego Mindstorms based on Python Language 
